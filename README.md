@@ -2,14 +2,15 @@
 
 # About me, Ollie Francis ⬇️ ⬇️
 [Portfolio](https://olfrank.github.io/my-website/)
-BSc Geography graduate and aspiring blockchain developer. Eager to add value to the blockchain industry and use my background knowledge to help solve some of the larger systemic issues the world faces today. 
+
+BSc Geography graduate and aspiring blockchain developer. Eager to add value to the blockchain industry and contribute to its growth.  
 - 🤩 GOAL = be employed as a blockchain developer in 2021
-- 👨🏻‍💻 Continuously buildng DApps while improving clean code and best practices 
+- 👷‍♂️ Continuously buildng DApps while improving clean code and best practices 
 - 🔎 Focused on building secure and safe DApps (smart contract security) 
 - 🤓 Eager to contribute to projects and ideas
 - 👨‍🎨 I enjoy producing creative, user-focused and design-orientated DApps 
 - 📚 Enjoy consistently learning more at [Moralis Academy](https://academy.moralis.io/)
-- 🤟 In particular I enjoy learning about how blockchain can accelerate change in solving some of the larger systemic and societal issues the developing world faces
+- 🤟 In particular I enjoy learning about how blockchain can accelerate change in solving some of the larger systemic and societal issues the developing world faces today
 
 ## Languages & Tools
 <img src="https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=white"/>  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/-Solidity-363636?logo=Solidity"/> <img src="https://img.shields.io/badge/-Web3.js-F16822?logo=Web3.js&logoColor=white"/>
