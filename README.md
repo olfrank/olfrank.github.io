@@ -17,4 +17,4 @@ BSc Geography graduate and aspiring blockchain developer. Blockchain can acceler
 <br><img src="https://img.shields.io/badge/-HTML-CB3837?logo=HTML5&logoColor=white"/><img src="https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=white"/><img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jQuery"/><img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap&logoColor=white"/><img src="https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white"/>
 
 ## Contact Me:
-[LinkedIn](https://olfrank.github.io/my-website/)
+[LinkedIn](https://www.linkedin.com/in/ollie-francis-57256b1b1/)
