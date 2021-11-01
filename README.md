@@ -15,23 +15,14 @@ BSc Geography graduate and aspiring blockchain developer. Eager to add value to 
 # Languages & Tools
 
 <img src="https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=white"/>
-https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=white
-
-https://img.shields.io/badge/-npm-CB3837?logo=npm
-
-https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript
-
-https://img.shields.io/badge/-Solidity-363636?logo=Solidity
-
-https://img.shields.io/badge/-HTML-CB3837?logo=HTML5
-
-https://img.shields.io/badge/-CSS-1572B6?logo=CSS3
-
-https://img.shields.io/badge/-Web3.js-F16822?logo=Web3.js
-
-https://img.shields.io/badge/-jQuery-0769AD?logo=jQuery
-
-https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap
+<img src="https://img.shields.io/badge/-npm-CB3837?logo=npm"/>
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript"/>
+<img src="https://img.shields.io/badge/-Solidity-363636?logo=Solidity"/>
+<img src="https://img.shields.io/badge/-HTML-CB3837?logo=HTML5"/>
+<img src="https://img.shields.io/badge/-CSS-1572B6?logo=CSS3"/>
+<img src="https://img.shields.io/badge/-Web3.js-F16822?logo=Web3.js"/>
+<img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jQuery"/>
+<img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap"/>
 
 
 ##Contact Me:
